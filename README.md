@@ -3,4 +3,4 @@
 #### By @Starbudz
 ## This is a basic webpage for a fictional dog named Sammy
 ## Setup/Installation Requirements: requires only a web browser
-## Made using Ato
+## Made using Atom
